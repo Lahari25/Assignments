@@ -1,0 +1,5 @@
+ Can we write multiple catch blocks for single try block?  If yes, why do we need?
+
+Yes we can write. It is needed if we want to handle multiple exceptions
+Generally, multiple catch block is used to handle different types of exceptions
+Each catch block is used to handle different type of exception.
